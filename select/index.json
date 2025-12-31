@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Tomorrow never knows",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-31T11:11:51.431154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "T.N.K. (Tomorrow Never Knows)",
+      "artist": "801",
+      "has_synced": false,
+      "path": "select/01_T.N.K._(Tomorrow_Never_Knows)_801.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Tomorrow_Never_Knows_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Tomorrow_Never_Knows_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Tomorrow_Never_Knows_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows - 2015 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/05_Tomorrow_Never_Knows_-_2015_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/06_Tomorrow_Never_Knows_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows - Mono Mix RM 11",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Tomorrow_Never_Knows_-_Mono_Mix_RM_11_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows (mono mix RM 11)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Tomorrow_Never_Knows_(mono_mix_RM_11)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows (Mono)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Tomorrow_Never_Knows_(Mono)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows - Take 1",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Tomorrow_Never_Knows_-_Take_1_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows (take 1)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Tomorrow_Never_Knows_(take_1)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Within You Without You / Tomorrow Never Knows",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/12_Within_You_Without_You___Tomorrow_Never_Knows_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Within You Without You ⁄ Tomorrow Never Knows",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Within_You_Without_You_⁄_Tomorrow_Never_Knows_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows",
+      "artist": "Quasimoto",
+      "has_synced": true,
+      "path": "select/14_Tomorrow_Never_Knows_Quasimoto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows",
+      "artist": "Tangerine Dream",
+      "has_synced": false,
+      "path": "select/15_Tomorrow_Never_Knows_Tangerine_Dream.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tomorrow Never Knows",
+      "artist": "Bruce Springsteen",
+      "has_synced": false,
+      "path": "select/16_Tomorrow_Never_Knows_Bruce_Springsteen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tomorrow never knows",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Tomorrow_never_knows_Mr.Children.txt"
+    }
+  ]
+}
